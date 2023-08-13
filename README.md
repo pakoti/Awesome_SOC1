@@ -8,7 +8,7 @@ a complete course in SOC tier1
 
 [Dark Master!](https://github.com/pakoti)
 
-[ََAlireza Rahmani](https://www.linkedin.com/in/alireza-rahmani-83587482/)
+ََ[Alireza Rahmani](https://www.linkedin.com/in/alireza-rahmani-83587482/)
 
 
 ## License
