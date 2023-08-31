@@ -33,8 +33,8 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.
 
 |Title|Description|Link|
 | --- | --- | --- |
-|SANS SEC504| Hacker Tools, Techniques, and Incident Handling||
- |SEC504.1| Incident Response and Cyber Investigations||
+|SANS SEC504| Hacker Tools,Techniques,and Incident Handling||
+|SEC504.1| Incident Response and Cyber Investigations||
 |SEC504.2| Recon, Scanning, and Enumeration Attacks||
 |SEC504.3| Password and Access Attacks||
 |SEC504.4| Public-Facing and Drive-By Attacks||
@@ -57,36 +57,36 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.
 
 |Title|Description|Link|
 | --- | --- | --- |
-|Introducing Splunk||
-|Understand the uses of Splunk||
-|Define Splunk Apps||
-|Learn basic navigation in Splunk Searching||
-|Run basic searches||
-|Use autocomplete to help build a search||
-|Set the time range of a search||
-|Identify the contents of search results||
-|Refine searches||
-|Use the timeline||
-||Work with events||
-|Control a search job||
-|Save search results||
-|Using Fields in Searches||
-|Understand fields||
-|Use fields in searches||
-|Use the fields sidebar||
-|Use search modes (fast, verbose, and smart)||
-|Creating Reports and Dashboards||
-|Save a search as a report||
-|Edit reports||
-|Create reports that display statistics (tables)||
-|Create reports that display visualizations (charts)||
-|Create a dashboard||
-|Add a report to a dashboard||
-|Edit a dashboard||
- Splunk’s Search Language Fundamentals||
-|Understand the search pipeline||
-|Understand search syntax concepts||
-|Use the following commands to perform searches||
+|Introducing Splunk|||
+|Understand the uses of Splunk|||
+|Define Splunk Apps|||
+|Learn basic navigation in Splunk Searching|||
+|Run basic searches|||
+|Use autocomplete to help build a search|||
+|Set the time range of a search|||
+|Identify the contents of search results|||
+|Refine searches|||
+|Use the timeline|||
+||Work with events|||
+|Control a search job|||
+|Save search results|||
+|Using Fields in Searches|||
+|Understand fields|||
+|Use fields in searches|||
+|Use the fields sidebar|||
+|Use search modes (fast, verbose, and smart)|||
+|Creating Reports and Dashboards|||
+|Save a search as a report|||
+|Edit reports|||
+|Create reports that display statistics (tables)|||
+|Create reports that display visualizations (charts)|||
+|Create a dashboard|||
+|Add a report to a dashboard|||
+|Edit a dashboard|||
+|Splunk’s Search Language Fundamentals|||
+|Understand the search pipeline|||
+|Understand search syntax concepts|||
+|Use the following commands to perform searches|||
 |Tables|||
 |Rename|||
 |Fields|||
