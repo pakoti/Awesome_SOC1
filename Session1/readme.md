@@ -21,7 +21,7 @@ Think of an NGFW as the entrance to a hotel and the WAF as the key to a hotel ro
 WAF works in reverse proxy mode,and most important thing it does is checking input value.
 
 ## TCP/IP Model
-
+for more inforamation please visit  this <a href="https://www.tcpipguide.com">Source</a>
 
 ## What is TTL?
 Time-to-live (TTL) is a value for the period of time that a packet, or data, should exist on a computer or network before being discarded. The meaning of TTL, or packet lifetime, depends on the context
