@@ -59,7 +59,7 @@
 |100| 	Continue|
 |101| 	Switching protocols|
 |102 |	Processing|
-|10|3 |	Early Hints|
+|103 |	Early Hints|
   	 
 |2xx| Succesful |	 
 |200| 	OK|
