@@ -1,12 +1,12 @@
 # مرکز عملیات امنیت سطح مقدماتی SOC Tier 1
-تحلیلگران سطح 1 معمولا تحلیلگران کم تجربه هستند و وظیفه اصلی آنها نظارت بر گزارش رویدادها برای فعالیت های مشکوک است. وقتی احساس میکنند چیزی نیاز به بررسی بیشتر دارد، تا آنجا که میتوانند اطالعات جمعآوری میکنند و حادثه را به Tier میرسانند. برنامه CSA Analyst SOC Certified اولین قدم برای پیوستن به یک مرکز عملیات امنیتی SOC است. این برای تحلیلگران فعلی و مشتاق I Tier و SOC II Tier برای دستیابی به مهارت در انجام عملیات سطح ابتدایی و متوسط طراحی شده است. یک مرکز SOC نه تنها باید تهدیدات را شناسایی کرده، بلکه باید آنها را تجزیه و تحلیل کند، در مورد هرگونه آسیب پذیری کشف شده گزارش دهد.<a href="https|//cando.ac/course/soc-tier-1/"> اموزشگاه کندو</a> 
-<p>در این مخزن کد سعی شده خلاصه از مطالب کلاس و اسلاید و هر انچه که در کلاس ارایه شده با اجازه استاد <a href="https|//www.linkedin.com/in/alireza-rahmani-83587482/">علیرضا رحمانی</a> عزیز به اشتراک گذاشته شود.</p>
-<p>مدرس این دوره استاد <a href="https|//www.linkedin.com/in/alireza-rahmani-83587482/">علیرضا رحمانی</a>
+تحلیلگران سطح 1 معمولا تحلیلگران کم تجربه هستند و وظیفه اصلی آنها نظارت بر گزارش رویدادها برای فعالیت های مشکوک است. وقتی احساس میکنند چیزی نیاز به بررسی بیشتر دارد، تا آنجا که میتوانند اطالعات جمعآوری میکنند و حادثه را به Tier میرسانند. برنامه CSA Analyst SOC Certified اولین قدم برای پیوستن به یک مرکز عملیات امنیتی SOC است. این برای تحلیلگران فعلی و مشتاق I Tier و SOC II Tier برای دستیابی به مهارت در انجام عملیات سطح ابتدایی و متوسط طراحی شده است. یک مرکز SOC نه تنها باید تهدیدات را شناسایی کرده، بلکه باید آنها را تجزیه و تحلیل کند، در مورد هرگونه آسیب پذیری کشف شده گزارش دهد.<a href="https://cando.ac/course/soc-tier-1/"> اموزشگاه کندو</a> 
+<p>در این مخزن کد سعی شده خلاصه از مطالب کلاس و اسلاید و هر انچه که در کلاس ارایه شده با اجازه استاد <a href="https://www.linkedin.com/in/alireza-rahmani-83587482/">علیرضا رحمانی</a> عزیز به اشتراک گذاشته شود.</p>
+<p>مدرس این دوره استاد <a href="https://www.linkedin.com/in/alireza-rahmani-83587482/">علیرضا رحمانی</a>
  هستند خیلی ممنونم از استاد عزیز بابت صبوری و اخلاق خوب ایشان برای یاد دادن.</p>
 
 
 # Awesome_SOC1
-a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in this repository i tried to collects codes,notes,slides of my Soc class.thanks to my dear Techear  <a href="https|//www.linkedin.com/in/alireza-rahmani-83587482/">Alireza Rahmani</a>.
+a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in this repository i tried to collects codes,notes,slides of my Soc class.thanks to my dear Techear  <a href="https://www.linkedin.com/in/alireza-rahmani-83587482/">Alireza Rahmani</a>.
 
 
 ## What will you learn in this Course?
