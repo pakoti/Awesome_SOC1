@@ -15,6 +15,9 @@ for more you can look <a href=" https://www.crypto101.io/Crypto101.pdf">Here</a>
 
 
 
-# Trusted Certificates
+## Trusted Certificates
 
 run in windows run <code>certmgr.msc</code> you can check certificates.
+
+## Fuzzy Hashing
+
