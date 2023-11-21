@@ -9,10 +9,10 @@ a Powerful tool for data access, analysis, and automation
 <li>Identifying Suspicious Processes</li>
 <li>Examining Network Usage</li>
 <li>Identifying Suspicious Network Activity</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Examining Services</li>
+<li>Registry Interrogation</li>
+<li>Unusual Accounts</li>
+<li>Unusual Scheduled Tasks</li>
 <li>Unusual Log Entries</li>
 </ul>
 
@@ -20,6 +20,15 @@ a Powerful tool for data access, analysis, and automation
 | Functionality | Powershell | Legacy Command|
 | --- | --- | --- |
 |List processes|Get-Process|wmic.exe process|
+|Network connections |Get-NetTNetworkconnection |netstat.exe -nao|
+|List services |Get-Service|sc.exe query|
+|Registry access |Get-ChildItem|reg.exe|
+|List users |Get-LocalUser|net.exe user|
+|List groups  |Get-LocalGroup|net.exe localgroup|
+|List scheduled tasks |Get-ScheduledTask|schtasks.exe|
+|Access Event Logs |Get-WinEvent|wevtutil.exe|
+|Identify differences  |Compare-Object|fc.exe|
+
 
 
 
