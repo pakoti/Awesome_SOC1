@@ -4,6 +4,26 @@ Incident Response and Cyber Investigations
 ## Powershell Commands 
 a Powerful tool for data access, analysis, and automation
 
+<ul>
+<li>Examining Processes</li>
+<li>Identifying Suspicious Processes</li>
+<li>Examining Network Usage</li>
+<li>Identifying Suspicious Network Activity</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li>Unusual Log Entries</li>
+</ul>
+
+
+| Functionality | Powershell | Legacy Command|
+| --- | --- | --- |
+|List processes|Get-Process|wmic.exe process|
+
+
+
+
 ## Examining Processes
 
 Get brief information about running processes
@@ -185,3 +205,5 @@ Look for new, unexpected accounts in the administrators group
 LastRunTime
     
 ```
+
+## Unusual Log Entries
