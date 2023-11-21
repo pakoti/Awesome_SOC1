@@ -122,7 +122,7 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 
 ## License
 
-https|//choosealicense.com/licenses/cc0-1.0/
+https://choosealicense.com/licenses/cc0-1.0/
 
 <img src=88x31.png>
 
