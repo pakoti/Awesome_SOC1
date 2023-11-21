@@ -216,3 +216,25 @@ LastRunTime
 ```
 
 ## Unusual Log Entries
+
+Get events for a specific date range
+
+``` powershell
+
+    PS C:\> $start = Get-Date 3/1/2022;
+    PS C:\> $end = Get-Date 3/31/2022;
+    PS C:\> Get-WinEvent -FilterHashtable @{LogName='Security';
+    StartTime=$start; EndTime=$end;}
+
+```
+
+
+Identify event log messages for new service installation.
+
+``` powershell
+
+    PS C:\WINDOWS\system32> Get-WinEvent -LogName System |
+    Where-Object -Property Id -EQ 7045 |
+    Format-List -Property TimeCreated,Message
+
+```
