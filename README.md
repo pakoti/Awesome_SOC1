@@ -20,7 +20,7 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 
 ## Security+
 |Title|Description|
-| --- | --- | --- |
+| --- | --- |
 |Security +| Differentiate Among Risk, Threat And Vulnerability ||
 |Security +|   Understanding Malicious Codes | | 
 |Security +|    Understanding different attack types | | 
@@ -33,7 +33,7 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 
 ## SANS Sec 504
 |Title|Description|
-| --- | --- | --- |
+| --- | --- |
 |SANS SEC504| Hacker Tools,Techniques,and Incident Handling||
 |SEC504.1| Incident Response and Cyber Investigations||
 |SEC504.2| Recon, Scanning, and Enumeration Attacks||
@@ -45,7 +45,7 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 
 ## SANS Sec 450
 |Title|Description|
-| --- | --- | --- |
+| --- | --- |
  SANS SEC450| Blue Team Fundamentals| Security Operations and Analysis||
 |SEC450.1| Blue Team Tools and Operations||
 |SEC450.2| Understanding Your Network||
@@ -57,7 +57,7 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 
 ## Splunk Fundamentals
 |Title|Description|
-| --- | --- | --- |
+| --- | --- | 
 |Introducing Splunk||
 |Understand the uses of Splunk||
 |Define Splunk Apps||
