@@ -389,6 +389,3 @@ Only ICMP from 8.8.8.8
 
 
 
-
-
-# Web Proxies
