@@ -130,6 +130,14 @@ LocalAddress,LocalPort,OwningProcess
 
 ## Identifying Suspicious Network Activity
 
+<ul>
+<li>Abnormal for the associated process</li>
+<li>Abnormal for the environment</li>
+<li>Lateral movement implies connections to other internal hosts</li>
+<li>Known malicious hosts/addresses</li>
+</ul>
+
+
 ## Examining Services
 
 ``` powershell
@@ -195,6 +203,11 @@ Look for new, unexpected accounts in the administrators group
 
 ## Unusual Scheduled Tasks
 
+<ul>
+<li>Look for unusual scheduled tasks: Get-ScheduledTask</li>
+<li>Export scheduled task for command details: Export-ScheduledTask</li>
+<li>Examine last run status: Get-ScheduledTaskInfo</li>
+</ul>
 
 ``` powershell
 
@@ -238,3 +251,144 @@ Identify event log messages for new service installation.
     Format-List -Property TimeCreated,Message
 
 ```
+# Network Investigations
+
+## Useful tcpdump Options
+
+Capture traffic for an interface. Can also use any
+
+``` bash
+
+
+    tcpdump -i interface
+
+
+```
+
+
+Capture traffic for an interface and write to a file.
+
+``` bash
+
+
+    tcpdump -i interface -w file
+
+
+```
+
+
+
+Read packets from a file and don't resolve hosts and ports.
+
+``` bash
+
+
+    tcpdump -r file -n
+
+
+```
+
+
+
+
+Read packets from a file, don't resolve, show as ASCII
+
+``` bash
+
+
+    tcpdump -r file -n -A 
+
+
+```
+
+
+
+
+capture packets from the vmnet42 interface and save them to the file called output.pcap
+
+``` bash
+
+
+    tcpdump -i vmnet42 -w output.pcap
+
+
+```
+
+
+
+
+read packets from a file called packets.pcap
+``` bash
+
+
+    tcpdump -nnr packets.pcap
+
+
+```
+
+
+
+
+
+
+
+## Berkeley Packet Filters BPF Examples 
+
+
+
+
+Traffic going to or from host 8.8.8.8
+
+``` bash
+
+
+    tcpdump -r file 'host 8.8.8.8'
+
+
+```
+
+
+
+
+
+Traffic coming from host 8.8.8.8
+
+``` bash
+
+
+    tcpdump -r file 'src host 8.8.8.8'
+
+
+```
+
+
+
+Traffic where the src is not 8.8.8.8
+
+``` bash
+
+
+    tcpdump -r file 'not src host 8.8.8.8'
+
+```
+
+
+
+
+
+
+Only ICMP from 8.8.8.8
+
+``` bash
+
+
+    tcpdump -r file 'icmp and (src host 8.8.8.8)'
+
+
+```
+
+
+
+
+
+# Web Proxies
