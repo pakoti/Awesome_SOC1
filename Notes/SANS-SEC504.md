@@ -509,3 +509,57 @@ View 16-bit little endian Unicode strings on Linux
 
 
 ```
+
+
+
+# DNS Interrogation
+
+
+## DNS Zone Transfer in Windows
+
+
+
+``` bash  
+
+    C:\Users\Sec504> nslookup
+    > server 81.4.108.41
+    > set type=AXFR
+    > ls -d zonetransfer.me
+
+``` 
+
+To run a zone transfer using dig
+
+``` bash  
+
+    dig @81.4.108.41 AXFR zonetransfer.me
+
+``` 
+
+
+## DNS Automated Interrogation
+
+
+``` bash  
+
+    $ dig AXFR holidayhackchallenge.com
+    ; Transfer failed.
+    $ sudo nmap --script dns-brute --script-args dns-
+    brute.domain=holidayhackchallenge.com,dns-brute.threads=6,dns-
+    brute.hostlist=./namelist.txt -sS -p 53
+
+``` 
+
+
+
+## DNS Reconnaissance Defenses
+
+
+
+<ul>
+<li>Do not allow zone transfers from just any system</li>
+<li>Use split DNS</li>
+<li>Inspect DNS server logs for signs of attack</li>
+
+
+</ul>
