@@ -387,5 +387,125 @@ Only ICMP from 8.8.8.8
 
 ```
 
+# Memory Investigations
+
+## Volatility
+
+Listing Processes
+
+``` bash
 
 
+    vol -q -f win10.0.22000.556.raw windows.pslist.PsList
+
+
+```
+
+
+Parent and Child Processes
+
+``` bash
+
+
+    vol -q -f win10.0.22000.556.raw windows.pstree.PsTree
+
+
+```
+
+
+
+Scanning for Network Connections 
+
+
+``` bash
+
+
+    vol -q -f win10.0.22000.556.raw windows.netscan.NetScan
+
+
+```
+
+
+
+
+
+Process Command Line
+
+
+``` bash 
+
+
+    vol -q -f win10.0.22000.556.raw windows.cmdline.CmdLine
+
+
+```
+
+
+
+
+| Volatility3 Module | capability | 
+| --- | --- |
+|windows.dlllist.DllList|List DLLs for processes|.
+|windows.driverscan.DriverScan|List kernel modules|
+|windows.envars.Envars|List environment variables|
+|windows.filescan.FileScan|Scan for files|
+|windows.dumpfiles.DumpFiles|Carve out files|
+|windows.info.Info|Examine Windows version information|
+|windows.hashdump.Hashdump|Retrieve password hashes|
+|windows.privileges.Privs|List privileges by process|
+|windows.registry.hivelist.HiveList|List registry hive offsets|
+|windows.registry.printkey.PrintKey|Access keys with --offset|
+|windows.registry.userassist.UserAssist|Enumerate programs run from the Start menu|
+|windows.registry.certificates.Certificates|List trusted certificates in Windows cert. store|
+|windows.svcscan.SvcScan|List service name, display name, and PID|
+
+
+# Malware Investigations
+
+## Basic Attributes
+
+
+Calculate the SHA256 hash of a file on Windows
+
+``` powershell 
+
+
+    Get-FileHash file
+
+```
+
+View ASCII and 16-bit little endian Unicode strings in PS C:\tools\sysinternals> 
+
+``` powershell 
+
+
+    strings file
+
+
+```
+
+
+
+
+View the ASCII strings on Linux
+
+``` bash 
+
+
+    strings file
+
+
+```
+
+
+
+
+View 16-bit little endian Unicode strings on Linux
+
+``` bash 
+
+
+    strings -e l file
+
+
+```
