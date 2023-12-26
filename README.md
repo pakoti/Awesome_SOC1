@@ -5,7 +5,7 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 
 
 <p align="center">
-  <img src="https://github.com/pakoti/Awesome_SOC1/blob/main/logo.PNG">
+  <img src="https://github.com/pakoti/Awesome_SOC1/blob/main/logo.PNG" alt="mikrotik hero logo created by microsoft ai DALL-E">
 </p>
 
 
