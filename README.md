@@ -118,20 +118,18 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 
 
 ## Author
-
-
-[Dark Master!](https|//github.com/pakoti)
-
-
-
-<a href="https|//www.linkedin.com/in/alireza-rahmani-83587482/">Alireza Rahmani</a> 
-
+[mohammad Ezzatzadeh](https://github.com/pakoti)
 
 ## License
+This project is licensed under the Creative Commons Zero v1.0 Universal license. See the LICENSE file for details
 
-https://choosealicense.com/licenses/cc0-1.0/
+Creative Commons Zero v1.0 Universal
 
 <img src=88x31.png>
+
+## Contributing
+
+Contributions are welcome! If you have a cool trick or command that you would like to share, feel free to open a pull request.
 
 
 ## Technologies Used
