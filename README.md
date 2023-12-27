@@ -65,56 +65,56 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 ## Splunk Fundamentals
 |Title|Description|Link|
 | --- | --- |---|
-|Introducing Splunk|||
-|Understand the uses of Splunk|||
-|Define Splunk Apps|||
-|Learn basic navigation in Splunk Searching|||
-|Run basic searches|||
-|Use autocomplete to help build a search|||
-|Set the time range of a search|||
-|Identify the contents of search results|||
-|Refine searches|||
-|Use the timeline|||
-|Work with events|||
-|Control a search job|||
-|Save search results|||
-|Using Fields in Searches|||
-|Understand fields|||
-|Use fields in searches|||
-|Use the fields sidebar|||
-|Use search modes (fast, verbose, and smart)|||
-|Creating Reports and Dashboards|||
-|Save a search as a report|||
-|Edit reports|||
-|Create reports that display statistics (tables)|||
-|Create reports that display visualizations (charts)|||
-|Create a dashboard|||
-|Add a report to a dashboard|||
-|Edit a dashboard|||
-|Splunk’s Search Language Fundamentals|||
-|Understand the search pipeline|||
-|Understand search syntax concepts|||
-|Use the following commands to perform searches|||
-|Tables|||
-|Rename|||
-|Fields|||
-|Dedup|||
-|Sort|||
-|Using Basic Transforming Commands|||
-|The top command|||
-|The rare command|||
-|The stats command|||
-|Creating and Using Lookups|||
-|Describe lookups |||
-|Examine a lookup file example|||
-|Create a lookup file and create a lookup definition|||
-|Configure an automatic lookup|||
-|Use the lookup in searches|||
-|Creating Scheduled Reports and Alerts|||
-|Describe scheduled reports|||
-|Configure scheduled reports|||
-|Describe alerts|||
-|Create alerts|||
+|Introducing Splunk||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
+|Understand the uses of Splunk||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Define Splunk Apps||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Learn basic navigation in Splunk Searching||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Run basic searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Use autocomplete to help build a search||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Set the time range of a search||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Identify the contents of search results||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Refine searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Use the timeline|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Work with events||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Control a search job||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Save search results||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Using Fields in Searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Understand fields||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Use fields in searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Use the fields sidebar||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Use search modes (fast, verbose, and smart)||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Creating Reports and Dashboards||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Save a search as a report||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Edit reports||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Create reports that display statistics (tables)||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Create reports that display visualizations (charts)||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Create a dashboard||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Add a report to a dashboard||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Edit a dashboard||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Splunk’s Search Language Fundamentals||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Understand the search pipeline||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Understand search syntax concepts||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Use the following commands to perform searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Tables||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Rename||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Fields||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Dedup||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Sort||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Using Basic Transforming Commands||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|The top command||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|The rare command||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|The stats command||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Creating and Using Lookups||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Describe lookups ||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Examine a lookup file example||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Create a lookup file and create a lookup definition||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Configure an automatic lookup||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Use the lookup in searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Creating Scheduled Reports and Alerts||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Describe scheduled reports||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Configure scheduled reports||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Describe alerts||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
+|Create alerts||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a|
 
 
 ## Author
