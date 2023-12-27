@@ -26,95 +26,95 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 </ul>
 
 ## Security+
-|Title|Description|
-| --- | --- |
-|Security +| Differentiate Among Risk, Threat And Vulnerability ||
-|Security +|   Understanding Malicious Codes | | 
-|Security +|    Understanding different attack types | | 
-|Security +|   Appropriate security tools to facilitate network security | | 
-|Security +|    Cryptography and Digital Certificate| | 
-|Security +|   Wireless security | | 
-|Security +|   Remote access security | | 
-|Security +|    Access Control| | 
-|Security +|  Environment and Physical security | | 
+|Title|Description|Link|
+| --- | --- |---|
+|Security +|Differentiate Among Risk, Threat And Vulnerability |<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>|
+|Security +|Understanding Malicious Codes | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
+|Security +|Understanding different attack types | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
+|Security +|Appropriate security tools to facilitate network security| <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
+|Security +|Cryptography and Digital Certificate|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a> | 
+|Security +|Wireless security |<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a> | 
+|Security +|Remote access security | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
+|Security +|Access Control| <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
+|Security +|Environment and Physical security | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
 
 ## SANS Sec 504
-|Title|Description|
-| --- | --- |
-|SANS SEC504| Hacker Tools,Techniques,and Incident Handling||
-|SEC504.1| Incident Response and Cyber Investigations||
-|SEC504.2| Recon, Scanning, and Enumeration Attacks||
-|SEC504.3| Password and Access Attacks||
-|SEC504.4| Public-Facing and Drive-By Attacks||
-|SEC504.5| Evasion and Post-Exploitation Attacks||
-|SEC504.6| Capture-the-Flag Event||
+|Title|Description|Link|
+| --- | --- |---|
+|SANS SEC504| Hacker Tools,Techniques,and Incident Handling|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>">Link</a>|
+|SEC504.1| Incident Response and Cyber Investigations|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>">Link</a>
+|SEC504.2| Recon, Scanning, and Enumeration Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.3| Password and Access Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.4| Public-Facing and Drive-By Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.5| Evasion and Post-Exploitation Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.6| Capture-the-Flag Event|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
 
 
 ## SANS Sec 450
-|Title|Description|
-| --- | --- |
- SANS SEC450| Blue Team Fundamentals| Security Operations and Analysis||
-|SEC450.1| Blue Team Tools and Operations||
-|SEC450.2| Understanding Your Network||
-|SEC450.3| Understanding Endpoints, Logs, and Files||
-|SEC450.4| Triage and Analysis||
-|SEC450.5| Continuous Improvement, Analytics, and Automation||
-|SEC450.6| Capstone| Defend the Flag||
+|Title|Description|Link|
+| --- | --- |---|
+ SANS SEC450|Blue Team Fundamentals| Security Operations and Analysis<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a> |
+|SEC450.1| Blue Team Tools and Operations|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.2| Understanding Your Network|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.3| Understanding Endpoints, Logs, and Files|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.4| Triage and Analysis|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.5| Continuous Improvement, Analytics, and Automation|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.6| Capstone| Defend the Flag|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
 
 
 ## Splunk Fundamentals
-|Title|Description|
-| --- | --- | 
-|Introducing Splunk||
-|Understand the uses of Splunk||
-|Define Splunk Apps||
-|Learn basic navigation in Splunk Searching||
-|Run basic searches||
-|Use autocomplete to help build a search||
-|Set the time range of a search||
-|Identify the contents of search results||
-|Refine searches||
-|Use the timeline||
-|Work with events||
-|Control a search job||
-|Save search results||
-|Using Fields in Searches||
-|Understand fields||
-|Use fields in searches||
-|Use the fields sidebar||
-|Use search modes (fast, verbose, and smart)||
-|Creating Reports and Dashboards||
-|Save a search as a report||
-|Edit reports||
-|Create reports that display statistics (tables)||
-|Create reports that display visualizations (charts)||
-|Create a dashboard||
-|Add a report to a dashboard||
-|Edit a dashboard||
-|Splunk’s Search Language Fundamentals||
-|Understand the search pipeline||
-|Understand search syntax concepts||
-|Use the following commands to perform searches||
-|Tables||
-|Rename||
-|Fields||
-|Dedup||
-|Sort||
-|Using Basic Transforming Commands||
-|The top command||
-|The rare command||
-|The stats command||
-|Creating and Using Lookups||
-|Describe lookups ||
-|Examine a lookup file example||
-|Create a lookup file and create a lookup definition||
-|Configure an automatic lookup||
-|Use the lookup in searches||
-|Creating Scheduled Reports and Alerts||
-|Describe scheduled reports||
-|Configure scheduled reports||
-|Describe alerts||
-|Create alerts||
+|Title|Description|Link|
+| --- | --- |---|
+|Introducing Splunk|||
+|Understand the uses of Splunk|||
+|Define Splunk Apps|||
+|Learn basic navigation in Splunk Searching|||
+|Run basic searches|||
+|Use autocomplete to help build a search|||
+|Set the time range of a search|||
+|Identify the contents of search results|||
+|Refine searches|||
+|Use the timeline|||
+|Work with events|||
+|Control a search job|||
+|Save search results|||
+|Using Fields in Searches|||
+|Understand fields|||
+|Use fields in searches|||
+|Use the fields sidebar|||
+|Use search modes (fast, verbose, and smart)|||
+|Creating Reports and Dashboards|||
+|Save a search as a report|||
+|Edit reports|||
+|Create reports that display statistics (tables)|||
+|Create reports that display visualizations (charts)|||
+|Create a dashboard|||
+|Add a report to a dashboard|||
+|Edit a dashboard|||
+|Splunk’s Search Language Fundamentals|||
+|Understand the search pipeline|||
+|Understand search syntax concepts|||
+|Use the following commands to perform searches|||
+|Tables|||
+|Rename|||
+|Fields|||
+|Dedup|||
+|Sort|||
+|Using Basic Transforming Commands|||
+|The top command|||
+|The rare command|||
+|The stats command|||
+|Creating and Using Lookups|||
+|Describe lookups |||
+|Examine a lookup file example|||
+|Create a lookup file and create a lookup definition|||
+|Configure an automatic lookup|||
+|Use the lookup in searches|||
+|Creating Scheduled Reports and Alerts|||
+|Describe scheduled reports|||
+|Configure scheduled reports|||
+|Describe alerts|||
+|Create alerts|||
 
 
 ## Author
