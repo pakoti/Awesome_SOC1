@@ -28,21 +28,21 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 ## Security+
 |Title|Description|Link|
 | --- | --- |---|
-|Security +|Differentiate Among Risk, Threat And Vulnerability |<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>|
-|Security +|Understanding Malicious Codes | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
-|Security +|Understanding different attack types | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
-|Security +|Appropriate security tools to facilitate network security| <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
-|Security +|Cryptography and Digital Certificate|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a> | 
-|Security +|Wireless security |<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a> | 
-|Security +|Remote access security | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
-|Security +|Access Control| <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
-|Security +|Environment and Physical security | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md"></a>| 
+|Security +|Differentiate Among Risk, Threat And Vulnerability |<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>|
+|Security +|Understanding Malicious Codes | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
+|Security +|Understanding different attack types | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
+|Security +|Appropriate security tools to facilitate network security| <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
+|Security +|Cryptography and Digital Certificate|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a> | 
+|Security +|Wireless security |<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a> | 
+|Security +|Remote access security | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
+|Security +|Access Control| <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
+|Security +|Environment and Physical security | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
 
 ## SANS Sec 504
 |Title|Description|Link|
 | --- | --- |---|
-|SANS SEC504| Hacker Tools,Techniques,and Incident Handling|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
-|SEC504.1| Incident Response and Cyber Investigations|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>
+|SANS SEC504| Hacker Tools,Techniques,and Incident Handling|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.1| Incident Response and Cyber Investigations|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>
 |SEC504.2| Recon, Scanning, and Enumeration Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
 |SEC504.3| Password and Access Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
 |SEC504.4| Public-Facing and Drive-By Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
