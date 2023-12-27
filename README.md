@@ -41,8 +41,8 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 ## SANS Sec 504
 |Title|Description|Link|
 | --- | --- |---|
-|SANS SEC504| Hacker Tools,Techniques,and Incident Handling|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>">Link</a>|
-|SEC504.1| Incident Response and Cyber Investigations|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>">Link</a>
+|SANS SEC504| Hacker Tools,Techniques,and Incident Handling|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.1| Incident Response and Cyber Investigations|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>
 |SEC504.2| Recon, Scanning, and Enumeration Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
 |SEC504.3| Password and Access Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
 |SEC504.4| Public-Facing and Drive-By Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
@@ -53,13 +53,13 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 ## SANS Sec 450
 |Title|Description|Link|
 | --- | --- |---|
- SANS SEC450|Blue Team Fundamentals| Security Operations and Analysis<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a> |
-|SEC450.1| Blue Team Tools and Operations|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.2| Understanding Your Network|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.3| Understanding Endpoints, Logs, and Files|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.4| Triage and Analysis|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.5| Continuous Improvement, Analytics, and Automation|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.6| Capstone| Defend the Flag|<a href="<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+ SANS SEC450|Blue Team Fundamentals Security Operations and Analysis|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a> |
+|SEC450.1| Blue Team Tools and Operations|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md"> Link </a>|
+|SEC450.2| Understanding Your Network|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.3| Understanding Endpoints, Logs, and Files|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.4| Triage and Analysis|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.5| Continuous Improvement, Analytics, and Automation|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.6| Capstone Defend the Flag|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
 
 
 ## Splunk Fundamentals
