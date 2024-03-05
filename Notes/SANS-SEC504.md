@@ -563,3 +563,48 @@ To run a zone transfer using dig
 
 
 </ul>
+
+
+## How to make money on malicious code:
+
+<ul>
+<li> Cryptocurrency miners</li>
+<li> Spam and web-based advertising</li>
+<li> Phishing: Email, phone, and targeted (spear) phishing</li>
+<li> Denial-of-Service extortion</li>
+<li> Keystroke loggers stealing financial information</li>
+<li> Rent out armies of infected systems for all the above</li>
+<li> RAM scrapers pulling CC numbers from POS terminals</li>
+</ul>
+
+
+
+
+## Website Reconnaissance 
+
+<ul>
+<li>search target website </li>
+<li>search engine recon</li>
+<li>wordlist generation</li>
+<li>search related website</li>
+<li>file meatdata</li>
+<li>website Recon defense</li>
+</ul>
+
+
+## Dns Interrogation
+
+dns is a wealth of valuable target information publicly available.
+
+<ul>
+<li>reveals target information </li>
+<li>defenses(Disallow zone transfers,split pub and priv DNS)</li>
+<li>interrogation techniques(Manual,auto interrogation,zone transfer)</li>
+</ul>
+
+
+
+
+
+
+
