@@ -277,3 +277,17 @@ more is good but remember it is costly and it will takes too much time to search
 
 1. Known-bad signatures
 2. Anomaly-based
+
+
+
+## Incident Management Systems – Systems View
+
+<p align="center">
+  <img src="/notes" alt="what and How Much Should I Collect?">
+</p>
+
+## PlayBooks
+
+<p align="center">
+  <img src="/Notes/img/PlayBook.jpeg" alt="what and How Much Should I Collect?">
+</p>
