@@ -5,7 +5,7 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 
 
 <p align="center">
-  <img src="https://github.com/pakoti/Awesome_SOC1/blob/main/logo.PNG" alt="mikrotik hero logo created by microsoft ai DALL-E">
+  <img src="/logo.PNG" alt="mikrotik hero logo created by microsoft ai DALL-E">
 </p>
 
 
@@ -24,93 +24,93 @@ a complete course in SOC tier1.tips and tricks on how to be a SOC analysts.in th
 ## Security+
 |Title|Description|Link|
 | --- | --- |---|
-|Security +|Differentiate Among Risk, Threat And Vulnerability |<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>|
-|Security +|Understanding Malicious Codes | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
-|Security +|Understanding different attack types | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
-|Security +|Appropriate security tools to facilitate network security| <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
-|Security +|Cryptography and Digital Certificate|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a> | 
-|Security +|Wireless security |<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a> | 
-|Security +|Remote access security | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
-|Security +|Access Control| <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
-|Security +|Environment and Physical security | <a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/security%2B.md">Link</a>| 
+|Security +|Differentiate Among Risk, Threat And Vulnerability |<a href="/Notes/security+.md">Link</a>|
+|Security +|Understanding Malicious Codes | <a href="/Notes/security+.md">Link</a>| 
+|Security +|Understanding different attack types | <a href="/Notes/security+.md">Link</a>| 
+|Security +|Appropriate security tools to facilitate network security| <a href="/Notes/security+.md">Link</a>| 
+|Security +|Cryptography and Digital Certificate|<a href="/Notes/security+.md">Link</a> | 
+|Security +|Wireless security |<a href="/Notes/security+.md">Link</a> | 
+|Security +|Remote access security | <a href="/Notes/security+.md">Link</a>| 
+|Security +|Access Control| <a href="/Notes/security+.md">Link</a>| 
+|Security +|Environment and Physical security | <a href="/Notes/security+.md">Link</a>| 
 
 ## SANS Sec 504
 |Title|Description|Link|
 | --- | --- |---|
-|SANS SEC504| Hacker Tools,Techniques,and Incident Handling|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
-|SEC504.1| Incident Response and Cyber Investigations|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>
-|SEC504.2| Recon, Scanning, and Enumeration Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
-|SEC504.3| Password and Access Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
-|SEC504.4| Public-Facing and Drive-By Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
-|SEC504.5| Evasion and Post-Exploitation Attacks|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
-|SEC504.6| Capture-the-Flag Event|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC504.md">Link</a>|
+|SANS SEC504| Hacker Tools,Techniques,and Incident Handling|<a href="/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.1| Incident Response and Cyber Investigations|<a href="/Notes/SANS-SEC504.md">Link</a>
+|SEC504.2| Recon, Scanning, and Enumeration Attacks|<a href="/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.3| Password and Access Attacks|<a href="/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.4| Public-Facing and Drive-By Attacks|<a href="/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.5| Evasion and Post-Exploitation Attacks|<a href="/Notes/SANS-SEC504.md">Link</a>|
+|SEC504.6| Capture-the-Flag Event|<a href="/Notes/SANS-SEC504.md">Link</a>|
 
 
 ## SANS Sec 450
 |Title|Description|Link|
 | --- | --- |---|
- SANS SEC450|Blue Team Fundamentals Security Operations and Analysis|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a> |
-|SEC450.1| Blue Team Tools and Operations|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md"> Link </a>|
-|SEC450.2| Understanding Your Network|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.3| Understanding Endpoints, Logs, and Files|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.4| Triage and Analysis|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.5| Continuous Improvement, Analytics, and Automation|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
-|SEC450.6| Capstone Defend the Flag|<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/SANS-SEC450.md">Link</a>|
+|SANS SEC450|Blue Team Fundamentals Security Operations and Analysis|<a href="/Notes/SANS-SEC450.md">Link</a> |
+|SEC450.1| Blue Team Tools and Operations| <a href="/Notes/SANS-SEC450.md" > Link </a> |
+|SEC450.2| Understanding Your Network|<a href="/Notes/SANS-SEC450.md">Link</a>|
+|SEC450.3| Understanding Endpoints, Logs, and Files| <a href="/Notes/SANS-SEC450.md">Link</a> |
+|SEC450.4| Triage and Analysis| <a href="/Notes/SANS-SEC450.md">Link</a> |
+|SEC450.5| Continuous Improvement, Analytics, and Automation|<a href="/Notes/SANS-SEC450.md">Link</a> |
+|SEC450.6| Capstone Defend the Flag|<a href="/Notes/SANS-SEC450.md">Link</a>|
 
 
 ## Splunk Fundamentals
 |Title|Description|Link|
 | --- | --- |---|
-|Introducing Splunk||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Understand the uses of Splunk||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Define Splunk Apps||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Learn basic navigation in Splunk Searching||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Run basic searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Use autocomplete to help build a search||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Set the time range of a search||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Identify the contents of search results||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Refine searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Use the timeline||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Work with events||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Control a search job||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Save search results||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Using Fields in Searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Understand fields||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Use fields in searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Use the fields sidebar||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Use search modes (fast, verbose, and smart)||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Creating Reports and Dashboards||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Save a search as a report||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Edit reports||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Create reports that display statistics (tables)||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Create reports that display visualizations (charts)||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Create a dashboard||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Add a report to a dashboard||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Edit a dashboard||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Splunk’s Search Language Fundamentals||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Understand the search pipeline||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Understand search syntax concepts||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Use the following commands to perform searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Tables||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Rename||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Fields||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Dedup||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Sort||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Using Basic Transforming Commands||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|The top command||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|The rare command||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|The stats command||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Creating and Using Lookups||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Describe lookups ||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Examine a lookup file example||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Create a lookup file and create a lookup definition||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Configure an automatic lookup||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Use the lookup in searches||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Creating Scheduled Reports and Alerts||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Describe scheduled reports||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Configure scheduled reports||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Describe alerts||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
-|Create alerts||<a href="https://github.com/pakoti/Awesome_SOC1/blob/main/Notes/Splunk.md">Link</a>|
+|Introducing Splunk||<a href="/Notes/Splunk.md">Link</a>|
+|Understand the uses of Splunk||<a href="/Notes/Splunk.md">Link</a>|
+|Define Splunk Apps||<a href="/Notes/Splunk.md">Link</a>|
+|Learn basic navigation in Splunk Searching||<a href="/Notes/Splunk.md">Link</a>|
+|Run basic searches||<a href="/Notes/Splunk.md">Link</a>|
+|Use autocomplete to help build a search||<a href="/Notes/Splunk.md">Link</a>|
+|Set the time range of a search||<a href="/Notes/Splunk.md">Link</a>|
+|Identify the contents of search results||<a href="/Notes/Splunk.md">Link</a>|
+|Refine searches||<a href="/Notes/Splunk.md">Link</a>|
+|Use the timeline||<a href="/Notes/Splunk.md">Link</a>|
+|Work with events||<a href="/Notes/Splunk.md">Link</a>|
+|Control a search job||<a href="/Notes/Splunk.md">Link</a>|
+|Save search results||<a href="/Notes/Splunk.md">Link</a>|
+|Using Fields in Searches||<a href="/Notes/Splunk.md">Link</a>|
+|Understand fields||<a href="/Notes/Splunk.md">Link</a>|
+|Use fields in searches||<a href="/Notes/Splunk.md">Link</a>|
+|Use the fields sidebar||<a href="/Notes/Splunk.md">Link</a>|
+|Use search modes (fast, verbose, and smart)||<a href="/Notes/Splunk.md">Link</a>|
+|Creating Reports and Dashboards||<a href="/Notes/Splunk.md">Link</a>|
+|Save a search as a report||<a href="/Notes/Splunk.md">Link</a>|
+|Edit reports||<a href="/Notes/Splunk.md">Link</a>|
+|Create reports that display statistics (tables)||<a href="/Notes/Splunk.md">Link</a>|
+|Create reports that display visualizations (charts)||<a href="/Notes/Splunk.md">Link</a>|
+|Create a dashboard||<a href="/Notes/Splunk.md">Link</a>|
+|Add a report to a dashboard||<a href="/Notes/Splunk.md">Link</a>|
+|Edit a dashboard||<a href="/Notes/Splunk.md">Link</a>|
+|Splunk’s Search Language Fundamentals||<a href="/Notes/Splunk.md">Link</a>|
+|Understand the search pipeline||<a href="/Notes/Splunk.md">Link</a>|
+|Understand search syntax concepts||<a href="/Notes/Splunk.md">Link</a>|
+|Use the following commands to perform searches||<a href="/Notes/Splunk.md">Link</a>|
+|Tables||<a href="/Notes/Splunk.md">Link</a>|
+|Rename||<a href="/Notes/Splunk.md">Link</a>|
+|Fields||<a href="/Notes/Splunk.md">Link</a>|
+|Dedup||<a href="/Notes/Splunk.md">Link</a>|
+|Sort||<a href="/Notes/Splunk.md">Link</a>|
+|Using Basic Transforming Commands||<a href="/Notes/Splunk.md">Link</a>|
+|The top command||<a href="/Notes/Splunk.md">Link</a>|
+|The rare command||<a href="/Notes/Splunk.md">Link</a>|
+|The stats command||<a href="/Notes/Splunk.md">Link</a>|
+|Creating and Using Lookups||<a href="/Notes/Splunk.md">Link</a>|
+|Describe lookups ||<a href="/Notes/Splunk.md">Link</a>|
+|Examine a lookup file example||<a href="/Notes/Splunk.md">Link</a>|
+|Create a lookup file and create a lookup definition||<a href="/Notes/Splunk.md">Link</a>|
+|Configure an automatic lookup||<a href="/Notes/Splunk.md">Link</a>|
+|Use the lookup in searches||<a href="/Notes/Splunk.md">Link</a>|
+|Creating Scheduled Reports and Alerts||<a href="/Notes/Splunk.md">Link</a>|
+|Describe scheduled reports||<a href="/Notes/Splunk.md">Link</a>|
+|Configure scheduled reports||<a href="/Notes/Splunk.md">Link</a>|
+|Describe alerts||<a href="/Notes/Splunk.md">Link</a>|
+|Create alerts||<a href="/Notes/Splunk.md">Link</a>|
 
 
 ## Author
