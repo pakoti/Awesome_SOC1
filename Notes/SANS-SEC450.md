@@ -269,7 +269,7 @@ more is good but remember it is costly and it will takes too much time to search
 
 
 <p align="center">
-  <img src="/Notes/img/event-log-flow.jpg" alt="what and How Much Should I Collect?">
+  <img src="/Notes/img/event-log-flow.jpg" >
 </p>
 
 
@@ -283,11 +283,128 @@ more is good but remember it is costly and it will takes too much time to search
 ## Incident Management Systems – Systems View
 
 <p align="center">
-  <img src="/notes" alt="what and How Much Should I Collect?">
+  <img src="/Notes/img/ims-system-view.jpeg" >
 </p>
 
 ## PlayBooks
 
 <p align="center">
-  <img src="/Notes/img/PlayBook.jpeg" alt="what and How Much Should I Collect?">
+  <img src="/Notes/img/PlayBook.jpeg">
+</p>
+
+
+## Threat Definition
+ combination of intent, capability and opportunity.
+
+• Intent is a malicious actor’s desire to target your organization
+• Capability is their means to do so (such as specific types of malware)
+• Opportunity is the opening the actor needs (such as vulnerabilities, whether it be in software, hardware, or personnel)
+
+<p align="center">
+  <img src="/Notes/img/cti-diagram.jpeg" >
+</p>
+
+
+## TIP Workflow
+
+<p align="center">
+  <img src="/Notes/img/tip-workflow.jpeg" >
+</p>
+
+
+
+## Storing and Sharing Threat Intelligence In a Safe Way: De-fanged Indicators
+Because we gather live ips and real threat just when you want to present these things!!! just do it in a safe way ...
+
+## A SIEMs Job
+
+SIEM duties:
+• Receive all log data
+• Parse it correctly
+• Filter unwanted events
+• Enrich useful events with additional data
+• Index log into database
+• Fast searching
+• Visualization and dashboard creation
+• Analytics and correlation for alerting
+
+<p align="center">
+  <img src="/Notes/img/siem-jobs.jpeg">
+</p>
+
+## Hacktivism
+
+Common goals:
+• DDoS
+• Site defacement
+• Data theft and release
+• Doxing
+• Reputation damage
+
+
+## Dividing Attacks into Two General Types
+Smaller scope, less expensive Likely will not halt your organization.targeted(bigger) scope is Disruptive/expensive problems Highest priority!!
+<p align="center">
+  <img src="/Notes/img/2SCOPE.jpeg">
+</p>
+
+
+## Opportunistic Attackers
+
+• Adversary Goal: High-volume, untargeted compromise
+• Strategy: Collect infected computers, control as botnet,leverage volume of devices as a method for accomplishing goal
+
+Tactics:
+
+• Malicious and scam email
+• Web drive-by downloads
+• Web scanning and exploitation
+• Browser-based social engineering
+• FakeAV/popups, etc.
+
+
+## Targeted Attackers (APTs)
+
+• Goal: Target people/organizations, get specific info, access specific systems, or disrupt YOUR business
+• Strategy: Attacks tailored to you and your organization
+
+Tactics:
+
+• Spear-phishing
+• Watering holes (strategic web compromise)
+• People/physical attack (social-engineering, USB)
+• Targeted service-side exploitation and zero-days
+• "Double extortion"
+
+
+## Network monitoring concepts and attack detection
+
+
+
+## What is 802.1X used for?
+802.1X is an IEEE standard framework for encrypting and authenticating a user who is trying to associate to a wired or wireless network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## All Pictures in one glance
+
+<p align="center">
+  <img src="/Notes/img/Course1.jpeg" alt="what and How Much Should I Collect?">
+</p>
+
+
+<p align="center">
+  <img src="/Notes/img/Course2.jpeg" alt="what and How Much Should I Collect?">
 </p>
