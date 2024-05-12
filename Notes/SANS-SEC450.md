@@ -197,3 +197,83 @@ Consider your network data collection
 • Autorun items
 • Application access and audit logs
 
+
+
+
+
+## NSM Data
+
+• Network extraction
+• Routers and switches
+• Network firewalls
+• IDS/IPS/NDR
+• Proxy
+• Web application firewalls
+• Service logs
+• DHCP, DNS, HTTP(S), SMTP, SMB,
+FTP, SSH, Kerberos, etc.
+
+
+
+## Endpoint and App Data
+
+• Authentication logs
+• Antivirus, HIDS/HIPS, EDR
+• Process command line
+• Executables
+• Vulnerability scanners
+• DLP
+• Application access logs
+• Application audit logs
+
+
+
+## Common sources for network data include:
+
+• Network extraction tools like Zeek
+• NetFlow from routers and switches
+• Firewall logs that may contain block/allow actions or, in the case of "next-gen firewalls", actual Layer 7 application info
+• IDS/IPS or NDR (network detection and response) logs with a rule name that matched and a potential recording of the traffic itself
+• Proxy logs that can tell which user was going to which site, including Layer 7 attributes such as URLs and HTTP methods
+• Service logs from servers running things like Apache, Windows/BIND DNS, or DHCP
+
+
+
+
+## Endpoint data information:
+
+• Authentication data showing successful and failed login attempts
+• Antivirus logs showing files identified as malicious
+• Host IDS/IPS logs that may show which files were modified, or if any suspicious processes were created
+• Process creation logs to describe how each new process was created
+• Application and System informational and error logs
+• Digital Loss Prevention logs, which may show how users moved files or interacted with sensitive data
+• Access logs for an application, requests made to a web server 
+• Audit logs created for an application
+
+## defensible networks requires 2 Things
+and remeber Centralization of data is crucial.
+1. Network Monitoring
+2. Endpoint and application data monitoring
+
+## Events, Alerts, and Incidents
+based on NIST SP800-61
+<ul>
+<li>Events: Any observable occurrence in a system or network</li>
+<li>Alerts: An event of interest that may be unwanted or unauthorized</li>
+<li>Incidents: A violation or imminent threat of violation of computer security policies, acceptable use policies,or standard security practices</li>
+</ul>
+
+## How Much Should I Collect?
+more is good but remember it is costly and it will takes too much time to search in logs.
+
+
+<p align="center">
+  <img src="/Notes/img/event-log-flow.jpg" alt="what and How Much Should I Collect?">
+</p>
+
+
+## Alerts types:
+
+1. Known-bad signatures
+2. Anomaly-based
