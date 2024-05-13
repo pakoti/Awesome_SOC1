@@ -442,6 +442,63 @@ Network tap on the wire:
 
 
 
+## Zero Trust Network
+Most networks now days are far from zero trust.But we can learn from the principles and implement pieces.what zero trust network is:
+
+• The network is always assumed to be hostile
+• External and internal threats exist on the network at all times
+• Network locality is not sufficient for deciding trust in a network
+• Every device, user, and network flow is authenticated and authorized
+• Policies must be dynamic and calculated from as many sources of data as possible
+• Makes security asset- and identity-centric
+
+
+## Defending a Flat Network
+Flat Network means network has no segmentation.
+
+• Harder to define and detect bad when all traffic is allowed
+• Incidents will escalate quickly
+• More exploitable servers to find
+• More exposed credentials
+• Consider your operations tempo
+• If attacks move fast, you need to be able to move even faster!
+• This means the blue team must compensate with even better controls when
+the network is overly permissive
+
+
+## DNS Server and Client Types
+
+DNS Server and Client Types
+• Stub Resolver: Your computer, as you browse:May or may not locally cache answers
+• Forwarding Server: Caches answers but does not recurse:Your home router/domain controller/organization's local DNS Server
+• Caching/Recursive Server: The server that will recurse up tothe root nameservers to find the answer caches answers ISP DNS server, OpenDNS, 8.8.8.8, 1.1.1.1, pi-hole, etc.
+• Authoritative nameservers: Do not need to recurse to find an answer, know all names in their zone. No caching/recursing
+
+
+<p align="center">
+  <img src="/Notes/img/dns-route.jpeg">
+</p>
+
+## Common DNS Request Types
+|TYPE |Type Code| Meaning|
+| --- | --- |---|
+|A/AAAA| 1/28 |A host address|
+|NS 2| An |authoritative name server|
+|CNAME| 5| The canonical name for an alias|
+|SOA| 6 |Marks the start of a zone of authority|
+|NULL |10| A null RR (EXPERIMENTAL)|
+|PTR |12 |A domain name pointer|
+|MX |15| Mail exchange|
+|TXT| 16 |Text strings|
+|SRV |33 |Specifies location of server(s)|
+
+
+
+
+## PTR Records
+Pointer records, "reverse phone number lookup" of DNS.Maps an IP address back to a domain
+
+
 
 
 
