@@ -381,9 +381,62 @@ Tactics:
 
 
 
+
+## important feaures that enterprise Routers must have:
+• Network flow visibility
+• ACLs for traffic flow
+• 802.1X
+• VPN and IPSec connections
+• Content filtering, IPS and more
+
+
+
+## important feaures that enterprise Switches must have:
+
+• Traffic mirror to a sensor
+• Network flow visibility
+• 802.1x to stop rogue devices
+• ACLs for device isolation
+• VLANs
+
+## important feaures that enterprise Firewalls must have:
+
+At small offices:
+
+• Blocks traffic from WAN to LAN, maybe outbound, too
+• Functions at Layer 3 and 4 – IP and TCP/UDP port based
+• Doesn't understand users or applications
+
+Enterprise "next-gen firewalls" do much more:
+
+• Define access between all network segments
+• Controls traffic Layer 2 through Layer 7
+• Understand user identity and expected application behavior
+
+next-gen firewall capability
+:
+• Only IT administrators can use SSH protocol to approved locations
+• Gmail is allowed, but no uploads and downloads
+• SMB connections are blocked, except to certain machines, on specific share names, sourced from a user in a defined group who authenticated first
+
+
+
 ## What is 802.1X used for?
 802.1X is an IEEE standard framework for encrypting and authenticating a user who is trying to associate to a wired or wireless network
 
+## Visibility Points:
+
+Mirror (SPAN) ports on a switch:
+
+• Sends all traffic from one port/VLAN out mirror port
+• Active packet duplication, takes CPU
+• Not transparent – drop errors, VLAN tags
+• Potential packet loss if over-subscribed
+
+Network tap on the wire:
+
+• No device impact, passive duplication of L1/2
+• Extra cost, need to reaggregate traffic
 
 
 
