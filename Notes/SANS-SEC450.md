@@ -498,7 +498,13 @@ DNS Server and Client Types
 ## PTR Records
 Pointer records, "reverse phone number lookup" of DNS.Maps an IP address back to a domain
 
+## TXT Records
+Used to associate arbitrary text with a hostname
 
+## CNAME Records
+A pointer from one host name to another or redirect from one hostname to another
+
+## MX Records
 
 
 
