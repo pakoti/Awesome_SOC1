@@ -422,6 +422,7 @@ next-gen firewall capability
 
 
 ## What is 802.1X used for?
+
 802.1X is an IEEE standard framework for encrypting and authenticating a user who is trying to associate to a wired or wireless network
 
 ## Visibility Points:
@@ -454,7 +455,8 @@ Most networks now days are far from zero trust.But we can learn from the princip
 
 
 ## Defending a Flat Network
-Flat Network means network has no segmentation.
+
+Flat Network means network has no segmentation:
 
 • Harder to define and detect bad when all traffic is allowed
 • Incidents will escalate quickly
@@ -496,22 +498,101 @@ DNS Server and Client Types
 
 
 ## PTR Records
+
 Pointer records, "reverse phone number lookup" of DNS.Maps an IP address back to a domain
 
 ## TXT Records
+
 Used to associate arbitrary text with a hostname
 
 ## CNAME Records
+
 A pointer from one host name to another or redirect from one hostname to another
+
 
 ## MX Records
 
+When sending mail MX record of the domain is queried
+MX record must contain an FQDN .FQDN must map directly to A record (CNAME not allowed). Lists a numerical priority for server selection and Lowest number is the most preferred server.
+
+## NS Records
+
+Identifies name of DNS server, not IP address.Defines where DNS answers are held.Can be confusing, stored in 2 locations:In TLD zone file, used for delegation and In your own DNS server – authority records
+
+
+## DNS in one glance
+
+• Resource records set in a zone file, hierarchical nature
+• A records: More than one IP per hostname possible
+• PTR records: More than one possible, might not go backwards and forwards the same
+• TXT records: Arbitrary text, used for spam reduction
+• CNAME: Pointer to another hostname
+• NS: Name of the authoritative DNS server
+
+## DNS-Based Attacker Tricks
+
+• Unauthorized DNS server use
+• Malicious sites on shared hosting
+• Modifying your DNS records
+• DNS Tunneling
+• Blockchain DNS
+• IDNs
+
+
+## Detecting Unauthorized DNS Server Use
+
+• Source to find UDP port 53 traffic to external IP address
+• Firewall block for port 53
+• Flow logs/network metadata
+• Host firewall logs
+• IDS alerts
+• Host integrity checks
+• Endpoint Detection and Response
+
+
+## DNS Record Modification and Why You MUST Protect Your DNS Admin
+big bad hackers in 2 ways can atak u:
+1. Domain shadowing: Adding a new record in your zone that they can point at their own evil server Allows them to attack anyone using your domain's good reputation.
+2. Transparently intercepting your organization's traffic then Clone your orgs website on an evil server and Obtain a TLS cert for YOUR domain – they can if they control DNS at the end Clone your org's webpage, send your employees there, intercept data!
+and always remember Multi-factor authtication and change detection for DNS.
+
+## DNS Tunneling
+it simply means Encodes data and sends it over DNS.it Uses weaponized custom nameserver and Data encoded in subdomain, return data in response.Very sneaky, unlikely to be caught unless watching.it is Almost always works because everyone must use DNS!
+it is done in 2 ways:
+1. Send requests directly to attacker-owned nameserver
+2. Send requests through normal organization's DNS resolvers
 
 
 
+## Detecting DNS Tunneling/Exfiltration
+
+• Excessive queries for one domain with many subdomains
+• Excessive DNS queries from one source
+• Excessive amount of odd query types:TXT, CNAME, MX, NULL
+• LONG/random looking subdomains
+• Especially with odd parent domain destinations
+• Encoded data in TXT responses
+• Usage of unauthorized DNS servers
+
+remember False positives are CDNs, AV checks, DNS Hijacking tests.
 
 
+## Blockchain DNS
+domains can be taken down as well when reports get to registrars that a domain is being used for malicious purposes. This would render malware disable.to overcome this broblem is to use a domain that can't be taken down, and one version of that is Blockchain backed DNS. 
+DNS (BDNS) stores DNS records on a publicly available blockchain, and no organization can take it down, even if they are
+reported as crime related (note this is just the domain to IP mapping, not the server itself).
 
+## The Future of DNS
+DNS over TLS (DoT) –TCP Port 853:
+• Wraps DNS requests in TLS connections to secure them, easy to block
+DNS over HTTPS (DoH) – TCP Port 443, “winning” standard:
+• Sends request in JSON encoded, HTTP/2 format, TLS encrypted packet
+• Firefox/Chrome/Edge/Safari support is now available
+• Windows OS level support generally available soon!
+• macOS 11+/iOS 14+ now supports both DoT/DoH
+DNSSEC:
+• Provides authentication and integrity, not confidentiality
+• Signs all responses with a server public key
 
 
 ## All Pictures in one glance
