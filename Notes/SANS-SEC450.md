@@ -594,6 +594,27 @@ DNSSEC:
 • Provides authentication and integrity, not confidentiality
 • Signs all responses with a server public key
 
+## Webservers
+At a high level File sharing using HTTP protocol.Webserver sends file specified in URL path (/main/index.htm)
+
+
+## Decoding a URI
+
+<p align="center">
+  <img src="/Notes/img/uri.jpg" alt="what and How Much Should I Collect?">
+</p>
+
+## HTTP Methods: GET
+The majority of web requests are the GET method.remember GET request will be logged and try not to use it for username and passwords.use POST request.POST request used when you want to transfer sensitive informations.
+
+
+## Evil Usage of HTTP
+HTTP is used for almost all Cyber Kill Chain phases:
+• Deliver/Exploit: Exploit Kits, Phishing, Fake Updates
+• Installation: Malicious executables and scripting
+• Command and Control: Periodic GET/POST
+• Data Exfiltration: Encoded/Encrypted upload
+
 
 ## All Pictures in one glance
 
