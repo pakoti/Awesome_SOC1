@@ -616,6 +616,17 @@ HTTP is used for almost all Cyber Kill Chain phases:
 • Data Exfiltration: Encoded/Encrypted upload
 
 
+
+• Header analysis: URLs, User-Agents, and more
+• GET/POST content analysis
+• File analysis
+• Anomalous behavior
+• Base64 encoded content
+• Naked IP addresses
+• Repetitive beaconing
+
+
+
 ## All Pictures in one glance
 
 <p align="center">
