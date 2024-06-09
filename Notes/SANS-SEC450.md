@@ -614,9 +614,6 @@ HTTP is used for almost all Cyber Kill Chain phases:
 • Installation: Malicious executables and scripting
 • Command and Control: Periodic GET/POST
 • Data Exfiltration: Encoded/Encrypted upload
-
-
-
 • Header analysis: URLs, User-Agents, and more
 • GET/POST content analysis
 • File analysis
@@ -624,6 +621,22 @@ HTTP is used for almost all Cyber Kill Chain phases:
 • Base64 encoded content
 • Naked IP addresses
 • Repetitive beaconing
+
+
+## Verifying the Source of a Message
+three ways of preventing email spoofing attacks.SMTP is unauthenticated by nature.Without taking extra steps, email can be easily spoofed.
+1. SPF (Sender Policy Framework)
+• Mail source from verified source
+2. DKIM (Domain Keys Identified Mail)
+• Message content verified via digital signature
+3. DMARC (Domain-based Message Authentication, Reporting,
+and Compliance)
+• Prevents attacks based on different From address and displayed address
+
+## Why is DHCP interesting?
+Can be used to detect rogue devices!
+
+
 
 
 
